@@ -10,7 +10,7 @@ Voici à quoi ressemble cette nouvelle interface pour le moment :
 <img align="center" width="275" src="https://github.com/Weldybox/WiFiManager-by-Julfi/blob/master/images/info.png"></img>
 
 
-#Mises à jours
+##Mises à jours
 
 V1.0
   - Ajout du thème sombre
