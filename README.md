@@ -5,6 +5,6 @@ Cette librairie est exactement la même que [celle-ci](https://github.com/tzapu/
 
 Voici à quoi ressemble cette nouvelle interface pour le moment :
 
-![center alignement alt text](https://github.com/Weldybox/WiFiManager-by-Julfi/blob/master/images/index.png)
+![`center` alignment alt text](https://github.com/Weldybox/WiFiManager-by-Julfi/blob/master/images/index.png)
 ![alt text](https://github.com/Weldybox/WiFiManager-by-Julfi/blob/master/images/WifiSave.png)
 ![alt text](https://github.com/Weldybox/WiFiManager-by-Julfi/blob/master/images/info.png)
