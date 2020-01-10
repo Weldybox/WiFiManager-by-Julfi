@@ -1,7 +1,11 @@
+## installation 
+Pour installler la librairie sur platformio rendez-vous ici : C:\Users\<i>user</i>\.platformio\lib\
+Vous pourrez y copier le dossier puis le renommer comme suite "WiFiManagerByWeldy"
+Félicitation la librairie est installé!!
+
 ## Portail captif de connexion Wifi THEME SOMBRE 🌃
 
 Cette librairie est une mise à jour à ma sauce de [celle-ci](https://github.com/tzapu/WiFiManager). Elle est repensé pour être plus esthétique par l'ajout d'un magnifique thème sombre !
-
 
 Voici à quoi ressemble cette nouvelle interface pour le moment :
 
